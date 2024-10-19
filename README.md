@@ -1,20 +1,92 @@
-This is the FrontEnd to Country-Info-APP
+# Country Info APP
 
-## :dna: To Exec
+<br/><br/>
+
+## 🛠️ Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [Styled-components](https://styled-components.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Material UI](https://mui.com/)
+
+<br/><br/>
+## 📋 Prerequisites
+
+Before starting, ensure you have the following tools installed on your machine:
+
+- [Node.js](https://nodejs.org/en/) (version 18.x or higher)
+- [Yarn](https://yarnpkg.com/)
+
+<br/><br/>
+## 🚀 Running the Project
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository of BackEnd**:
+    ```bash
+    git clone git@github.com:Kauan-Leite/country-info-app-backend.git
+    ```
+
+2. **Navigate to the project directory**:
+    ```bash
+    cd country-info-app-backend
+    ```
+
+3. **Install dependencies**:
+    If you are using Yarn:
+    ```bash
+    yarn install
+    ```
+    Or if you are using npm:
+    ```bash
+    npm install
+    ```
+
+4. **Run the development server**:
+    For Yarn:
+    ```bash
+    yarn dev
+    ```
+    Or for npm:
+    ```bash
+    npm run dev
+    ```
+
+<br/><br/><br/>
+**In another terminal**
+<br/><br/><br/>
+
+1. **Clone the repository of FrontEnd**:
+    ```bash
+    git clone git@github.com:Kauan-Leite/country-info-app-frontend.git
+    ```
+
+2. **Navigate to the project directory**:
+    ```bash
+    cd country-info-app-frontend
+    ```
+
+3. **Install dependencies**:
+    If you are using Yarn:
+    ```bash
+    yarn install
+    ```
+    Or if you are using npm:
+    ```bash
+    npm install
+    ```
+
+4. **Run the development server**:
+    For Yarn:
+    ```bash
+    yarn dev
+    ```
+    Or for npm:
+    ```bash
+    npm run dev
+    ```
+
+5. **Access the application**:
+    Open your browser and go to `http://localhost:3000`.
 
 
-### 1 - Clone the repo:
-
-```
-git clone git@github.com:Kauan-Leite/country-info-app-frontend.git
-```
-
-### 2 - No terminal do repositório, rode o comando:
-
-    docker-compose up -d
-
-### 3 - Agora basta acessar a aplicação em:
-
-    http://localhost:3000/
-
-<br />
